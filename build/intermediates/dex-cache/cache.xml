@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72defec52326bfc2b8c3a654fc294c0c0b7083e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4a94e22a899066a7967b8edad75e6dd0e7aacf5">
+        <dex dex="/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ab23fd94510f68e8e22fd8908a9f1eea5f7d93d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/muhammed/Home/Dev/android/0_roar/app/lib/ncommonutils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bd18506ba63ce57bc6144cb07cbe74359dce778">
+        <dex dex="/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/transforms/dex/debug/folders/1000/2/ncommonutils_04bea7ec76f4b8a1025b9ab0a867714f3513755f/classes.dex" />
+    </item>
+
+</items>
