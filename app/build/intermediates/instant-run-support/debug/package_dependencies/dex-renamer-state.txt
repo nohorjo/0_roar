@@ -1,4 +1,0 @@
-#Thu Mar 23 19:49:37 GMT 2017
-base.0=/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/transforms/dex/debug/folders/1000/2/ncommonutils_04bea7ec76f4b8a1025b9ab0a867714f3513755f
-renamed.0=classes.dex
-file.0=/media/muhammed/Home/Dev/android/0_roar/app/build/intermediates/transforms/dex/debug/folders/1000/2/ncommonutils_04bea7ec76f4b8a1025b9ab0a867714f3513755f/classes.dex
